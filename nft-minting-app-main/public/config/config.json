@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0F3108141Eb1B6ce2A75a741202f04C40E875d37",
+  "SCAN_LINK": "https://polygonscan.com/address/0x0f3108141eb1b6ce2a75a741202f04c40e875d37",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Kitty Metaverse",
+  "SYMBOL": "KITTY",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/kitty-metaverse",
+  "SHOW_BACKGROUND": true
+}
